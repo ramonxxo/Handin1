@@ -12,7 +12,7 @@ export default function Home() {
       <main className="flex min-h-screen flex-col items-center justify-center bg-[#000000]">
         <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16 ">
           <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
-            Focus <span className="text-[hsl(0,100%,69%)]">Foods</span> 
+            Focus <span className="text-[hsl(0,100%,69%)]">Foods</span> Shit
           </h1>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
           </div>
